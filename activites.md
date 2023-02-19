@@ -17,3 +17,5 @@ A titre indicatif, les activités commerciales possibles sont (liste non-exhaust
 ## Nos valeurs
 
 Youpi et Prout sont dans un bateau.
+
+Si je modifie ici, comment mon dépôt est modifié ? un commit ou bien ça recrée le dépôt ?
